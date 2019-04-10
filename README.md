@@ -1,8 +1,6 @@
 # SCY
 Security stuff
 
-.
-
 ## VPN
 
 Provider, app
