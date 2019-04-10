@@ -3,11 +3,11 @@ Security stuff
 
 ## VPN
 
-Provider, app
+Provider, e.g.:
 - https://black.riseup.net/
 - https://dl.bitmask.net/linux/#debian-packages
 
-Install bitmask
+Install Bitmask
 https://dl.bitmask.net/en/signature-verification
 ```
 wget     https://dl.bitmask.net/client/linux/stable/Bitmask-linux64-latest.tar.gz && xm
